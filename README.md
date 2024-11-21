@@ -10,4 +10,4 @@ The project was presented at the SRM ProjectExpo, where it showcased the integra
 2. Acceptance Letter for Paper Publication
 Title of Paper: CareZen , Hospital Management System
 Acceptance:
-We are pleased to inform you that your paper titled "Carezen" has been accepted for publication  The paper discusses the development of the MAD App, highlighting the technologies used and its potential impact on the HEALTHCARE industry.
+paper titled "Carezen" has been accepted for publication  The paper discusses the development of the MAD App, highlighting the technologies used and its potential impact on the HEALTHCARE industry.
